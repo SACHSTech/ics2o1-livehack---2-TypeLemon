@@ -28,5 +28,5 @@ if num_ant <= 2 and num_eyes <= 3:
 if num_ant == 0 and num_eyes == 2:
   print("Life form detected: MattDamonMartian")
 
-else: 
-  print("No life form detected.")
+if num_ant >= 7 and num_eyes >=5:
+  print("No life form detected")
